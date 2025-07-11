@@ -1,0 +1,22 @@
+#join {
+  text-align: center;
+  width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+#joinHeader {
+  text-align: center;
+  line-height: 1.5;
+}
+
+.nonText {
+  text-align: left;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.nonText p {
+  margin: 5px 0 15px 20px;
+}
